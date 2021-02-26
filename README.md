@@ -38,6 +38,10 @@ The following are some global research internship positions:
 29. [Aalto Science Institute (AScI) Summer Trainees 2021](https://www.aalto.fi/en/open-positions/aalto-science-institute-asci-summer-trainees-2021)
 30. [Summer Research Program, Princeton University](https://undergraduateresearch.princeton.edu/programs/summer-programs?field_princeton_status_eligibili_value=Non-Princeton+undergrads&field_class_year_eligibility_value=Juniors&field_division_value=Engineering)
 31. [UX Research Internship, Red Hat](https://us-redhat.icims.com/jobs/83084/remote-us-nc/job)
+32. [Summer Research Internships at the Information Sciences Institute](https://www.isi.edu/join_us/summer_internships), University of Southern California
+33. [Undergraduate Research Program at the Cold Spring Harbor Laboratory](https://www.cshl.edu/education/undergraduate-research-program/)
+34. [International Undergraduate Summer School at the John Innes Centre for Plant and Microbial Science](https://www.jic.ac.uk/training-careers/summer-schools/international-undergraduate/)
+35. [Undergraduate Scholars Program at the Howard Hughes Medical Institute](https://www.janelia.org/you-janelia/students-postdocs/undergraduate-scholars-program)
 
 The following are some research internships for Indian students:
 
